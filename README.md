@@ -26,7 +26,7 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GIGAKLIBADZE&theme=radical" alt="Giga Klibadze's GitHub Contribution"/>     </a>
 </p>
 <p align="center">   
-  <video src="https://youtu.be/mqCLaWupsTU" controls></video>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GIGAKLIBADZE" alt="Giga Klibadze's GitHub Contribution"/>
 </p>
 
 <p align="center">   
