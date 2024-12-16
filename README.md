@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Giga Klibadze</h1>
-<h3 align="center"> Front End Development student from Georgia</h3>
+<h3 align="center"> Software Developer from Georgia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=GIGAKLIBADZEli&label=Profile%20views&color=3f5427&style=plastic" alt="GIGAKLIBADZE" /> </p>
 
