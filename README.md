@@ -29,6 +29,7 @@
   <img src="https://img.shields.io/badge/Jinja-%23A92C2C.svg?style=flat&logo=jinja&logoColor=white" alt="Jinja" />
   <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=flat&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Styled--components-%23DB7093.svg?style=flat&logo=styled-components&logoColor=white" alt="Styled-components" />
 </p>
 
 
